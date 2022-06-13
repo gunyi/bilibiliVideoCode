@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "wallhaven-m9kq98.jpg": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1500,
+        "h": 855
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1500,
+        "h": 855
+      },
+      "sourceSize": {
+        "w": 1500,
+        "h": 855
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3ef7758d0e3b6df46435936bad720d3b.jpg": {
+      "frame": {
+        "x": 0,
+        "y": 855,
+        "w": 1024,
+        "h": 683
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 683
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 683
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "d599e37131769660a5ef62f3bb8691db.jpg": {
+      "frame": {
+        "x": 683,
+        "y": 855,
+        "w": 1024,
+        "h": 670
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 670
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6ozkzl.jpg": {
+      "frame": {
+        "x": 1500,
+        "y": 0,
+        "w": 300,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
